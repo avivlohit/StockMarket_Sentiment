@@ -1,4 +1,5 @@
-# Data_Project
+# StockMarket_Sentiment Project
+
 
 Python project, data analysis and more
 
