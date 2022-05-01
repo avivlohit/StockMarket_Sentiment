@@ -4,7 +4,7 @@
 Python project, data analysis and more
 
 ## About and Goals: 
-After completing my first year as IT tech student, I received an friendly offer to create software that analyzes stock sentiment based on articles and content manipulations with NLP models. As part of the project I performed statistical analyzes like correlation tests and so on.
+I received an friendly offer to create software that analyzes stock sentiment based on articles and content manipulations with NLP models. As part of the project I performed statistical analyzes like correlation tests and so on.
 
 ## What was done:
 
